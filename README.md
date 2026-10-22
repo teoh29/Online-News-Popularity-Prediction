@@ -25,7 +25,6 @@ The repository includes:
 ## 📂 Repository Structure
 ```text
 ├── docs/
-│   ├── COVER_PAGE.pdf
 │   └── SWA2124_Group10_OnlineNewsPopularity.docx  # Full project report
 ├── dashboard/
 │   └── SWA2124_Group10_Online_News_Popularity.pbix # Power BI visualization
